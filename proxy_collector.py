@@ -1,4 +1,3 @@
-#Proxy list graper
 import os,sys
 try:
 	import urllib.request
@@ -24,7 +23,7 @@ created by abdoxfox
 my github link :https://github.com/abdoxfox
 telegram id :@Pythonest
 
-+-----------+
++-------------+
 """)
 def slow(n):
 	for i in str(n)+'\n':
