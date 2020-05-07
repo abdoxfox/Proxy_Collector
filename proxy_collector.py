@@ -6,7 +6,6 @@ try:
 except ModuleNotFoundError:
 	os.system('pip install urllib3')
 	os.system('pip install bs4')
-	os.system('pip install numpy')
 import time
 print("""
 ______                                _ _           _             
